@@ -1,0 +1,7 @@
+transformers
+ftfy
+spacy
+boto3
+sagemaker
+nvgpu
+sentencepiece
